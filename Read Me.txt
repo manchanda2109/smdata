@@ -1,0 +1,11 @@
+Instructions to Run the Code:
+
+1. Copy the folder "Logistic Regression" with same folder structure in your local drive.
+2. You will need to install docx package in python. Therefore, please run 'pip install python-docx' in python.
+3. In line 26 of the code, update the path of the location where Logistic Regression folder is saved as ***\\Logistic Regression\\
+4. The code uses the following files (these should already be present in the relavant folders)
+	i. configuration file - "config_Logistic Regression_03262019_v1.txt" which includes all the inputs required in all the functions defined in the code.
+	   This file also specifies the input dataset that should be used in estimating the model with the location.
+       ii. Report Template - "Template_with_Caption.docx" which includes the template of the final report output. 
+           The code generates all the testing results and paste them at respective places in the template document.	
+5. Now run the code, and you can view the output in ***\Logistic Regression\Report\Report.docx
